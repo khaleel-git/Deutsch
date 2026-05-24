@@ -4,11 +4,11 @@ This is my German language learning journey at BTU.
 
 ## Structure
 
-- `A1.1/`
-- `A1.2/`
-- `A2.1/`
-- `A2.2/`
-- `B1.1/`
+- `A1.1`
+- `A1.2`
+- `A2.1`
+- `A2.2`
+- `B1.1`
 
 ## Notes
 
